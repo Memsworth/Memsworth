@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abubakar Ahmed, But can call me Memsworth
 - 🌱 I’m currently working with C#
-- 💞️ I’m looking to collaborate on more programming projects later learning about Cloud
+- 💞️ I’m looking to collaborate on more programming projects later learning about cloud
 - 📫 How to reach me: Email & Discord: Memsworth#5099
 
 <!---
